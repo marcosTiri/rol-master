@@ -1,0 +1,25 @@
+Hello, this is the start of a new project for create a brand new role-play system 
+The basis of this project will be create:
+  -Character basis
+    -NPCs
+    -Player
+  -Character habilities:
+    -Distributed:
+      -Physics
+      -Intelligence
+      -Charisma
+      -Dexterity
+      -And more to think.
+    
+Also a character will have different kinds of features like:
+  -Status:
+      -Wealth
+      -Sickness
+      -Mental Health.
+      -Scars
+      -...
+      
+How this will affect. The characteristic will be boosted or weaken depending on the status characteristics.
+  Ex: A physical hability like climb will be determinated by the strength of the character, but also with is status. how sick he is,
+  or maybe if he is hurt or bleeding, poisoned, etc.
+
